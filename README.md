@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eky2429
 - 👀 I’m interested in Computer Science and coding.
-- 🌱 I’m currently learning F++, C++ and Java.
-- 💞️ I’m looking to collaborate on Software projects.
+- 🌱 I’m currently learning F#, more C++ and more about Java.
+- 💞️ I’m looking to collaborate on Software Engineering projects.
 - 📫 How to reach me linked in: https://www.linkedin.com/in/ethan-ky-4502a9213/
 
 <!---
